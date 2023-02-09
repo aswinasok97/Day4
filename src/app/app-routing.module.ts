@@ -1,10 +1,11 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { ContactComponent } from './pages/contact/contact.component';
-import { DistrictsComponent } from './pages/districts/districts.component';
+import { ContactComponent } from './Pages/contact/contact.component';
+import { DistrictsComponent } from './Pages/districts/districts.component';
 import { HomeComponent } from './Pages/homePage/home.component';
-import { SigninComponent } from './pages/signin/signin.component';
+import { SigninComponent } from './Pages/signin/signin.component';
 import { SignUpComponent } from './Pages/signUp/sign-up.component';
+import { SingleComponent } from './pages/single/single.component';
 
 const routes: Routes = [
   {
@@ -21,6 +22,9 @@ const routes: Routes = [
   },
   {
     path:'signin',component: SigninComponent
+  },
+  {
+    path:'single',component: SingleComponent
   },
 ];
 

@@ -4,12 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './Pages/homePage/home.component';
-import { ContactComponent } from './pages/contact/contact.component';
-import { DistrictsComponent } from './pages/districts/districts.component';
+import { ContactComponent } from './Pages/contact/contact.component';
+import { DistrictsComponent } from './Pages/districts/districts.component';
 import { SignUpComponent } from './Pages/signUp/sign-up.component';
-import { SigninComponent } from './pages/signin/signin.component';
-import { NavbarComponent } from './components/navbar/navbar.component';
-import { FooterComponent } from './components/footer/footer.component';
+import { SigninComponent } from './Pages/signin/signin.component';
+import { NavbarComponent } from './Components/navbar/navbar.component';
+import { FooterComponent } from './Components/footer/footer.component';
+import { SingleComponent } from './pages/single/single.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { FooterComponent } from './components/footer/footer.component';
     SignUpComponent,
     SigninComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    SingleComponent
   ],
   imports: [
     BrowserModule,
