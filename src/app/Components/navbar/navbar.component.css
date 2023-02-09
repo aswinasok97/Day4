@@ -1,0 +1,10 @@
+.container-fluid{
+    background-color: rgb(163, 195, 77);
+    
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
