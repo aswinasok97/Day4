@@ -2,7 +2,7 @@ export const districts=[
     {
         "id":1,
         "title":"Trivandrum",
-        "details":"Shankumukham Beach",
+        "details":"Shankumukham Beach,Kovalam,Padmanabhaswamy temple,Kuthira Malika,Napier Museum,Ponmudi,Planetorium,Kanyakumari,Vizhinjam",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ba/95/ee/mermaid.jpg?w=1200&h=1200&s=1",
         "button":"Explore"
       },
@@ -16,7 +16,7 @@ export const districts=[
       {
         "id":3,
         "title":"kollam",
-        "details":"Jadayu Peak",
+        "details":"Jadayu Peak,Thenmala,Neendakara,Ashtamudi Lake,Rosemala,Munroe Island,Maruthimala",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9c/f4/af/worlds-largest-bird-sculpture.jpg?w=1200&h=1200&s=1",
         "button":"Explore"
       },
@@ -51,7 +51,7 @@ export const districts=[
       {
         "id":8,
         "title":"Thrissur",
-        "details":"Athirappally",
+        "details":"Athirappally,Kalamandalam,Guruvayoor,Peechi Dam,Zoo&Museum,Chinmini Dam,Azheekode Beach",
         "image":"https://img.onmanorama.com/content/dam/mm/en/travel/getting-about-kerala/thrissur/images/2020/10/8/athirappilly-waterfalls.jpg.transform/schema-1x1/image.jpg",
         "button":"Explore"
       },
@@ -65,35 +65,35 @@ export const districts=[
       {
         "id":10,
         "title":"Kozhikkode",
-        "details":"Beppur",
+        "details":"Beppur,Kakkayam Dam,",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/2f/ee/ad/beypore-beach.jpg?w=1200&h=1200&s=1",
         "button":"Explore"
       },
       {
         "id":11,
         "title":"Palakkad",
-        "details":"Palakkad Fort",
+        "details":"Palakkad Fort,Nelliyambathy,Attapadi,Malampuzha Dam,Kollengode Palace,Parambikulam Wildlife Sanctuary,Mangalam Dam,Kava View Point",
         "image":"https://img.onmanorama.com/content/dam/mm/en/travel/getting-about-kerala/palakkad/images/2018/10/3/palakkad-fort.jpg.transform/schema-1x1/image.jpg",
         "button":"Explore"
       },
       {
         "id":12,
         "title":"Wayanad",
-        "details":"KaduvaKuzhi View Point",
+        "details":"KaduvaKuzhi View Point,Muthanga Wildlife Sanctuary,Tholpetty Wildlife Sanctuary,Chembra Peak,Soochipara Waterfalls,Kuruva Island",
         "image":"https://keralatouristplaces.in/wp-content/uploads/2023/01/Kaduvakuzhi-View-Point-Wayanad.webp",
         "button":"Explore"
       },
       {
         "id":13,
         "title":"Kannur",
-        "details":"Ezhimala",
+        "details":"Ezhimala,Pakkasuramala,Arakkal Museum,St.Angelo Fort,Pazhassi Dam,Aralam Wildlife Sanctuary,Parassinikadavu Snake Park",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ff/f5/b0/ezhimala-viewpoint.jpg?w=1200&h=1200&s=1",
         "button":"Explore"
       },
       {
         "id":14,
         "title":"Kasargod",
-        "details":"Bekkal Fort",
+        "details":"Bekkal Fort,Ranipuram,Kottamcheri Mala,Hosdhurg Fort,Pallikkara Beach&Park,Kappil Beach,Veeramala",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bekal_Fort_Kerala.jpg/1200px-Bekal_Fort_Kerala.jpg",
         "button":"Explore"
       },

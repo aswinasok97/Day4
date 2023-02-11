@@ -13,7 +13,7 @@ export class SingleComponent {
     let id=localStorage.getItem('id')
     let singleDataArray=this.hero.getData()
     console.log(singleDataArray);
-    this.single=singleDataArray.filter(e=>e.title===id)
+    this.single=singleDataArray.filter(e=>e.details===id)
     console.log(this.single)
   }
 
